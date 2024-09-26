@@ -35,7 +35,7 @@ const HomePage = () => {
           <Image src={img} alt="" className="w-9/12 p-6 mx-auto " />
         </div>
         <div>
-          <button className="border-indigo-700 border-2 p-3 rounded-2xl">
+          <button className="border-indigo-700 border-2 p-3 rounded-full">
             Browse my files
           </button>
         </div>
