@@ -1,12 +1,12 @@
 "use client";
 
-import HomePage from '@/components/HomePage';
-import { Container, Title, Text } from '@mantine/core';
+import HomePage from '@/app/components/HomePage';
+import { } from '@mantine/core';
 
 export default function Home() {
   return (
-    <Container>
+   
       <HomePage/>
-    </Container>
+  
   );
 }
