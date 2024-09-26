@@ -1,4 +1,4 @@
-// src/app/layout.js
+
 "use client";
 
 import { MantineProvider } from '@mantine/core';
